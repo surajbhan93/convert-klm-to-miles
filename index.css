@@ -1,0 +1,19 @@
+body{
+    padding: 0%;
+    margin: auto;
+    background: red;
+
+}
+.container {
+    text-align: center;
+    align-items: center;
+    text-decoration-line: unset;
+    
+}
+button {
+    color: blue;
+    border-radius: 20px;
+    border: rgb(112, 184, 40);
+
+    
+}
